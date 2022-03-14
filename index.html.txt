@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+</section>
+<section id="contact">
+    <h1 class="h-primary">ContactUS</h1>
+    <div id="contactbox">
+        <form action="">
+            <div class="fromgroup">
+                <label for="name">name</label>
+                <input type="Name" name="name" id="name"placeholder="Enter your name">
+            </div>
+            <div class="fromgroup">
+                <label for="name">Location</label>
+                <input type="Location" name="name" id="Location"placeholder="Enter your Location">
+            </div>
+            <div class="fromgroup">
+                <label for="name">Age</label>
+                <input type="Age" name="name" id="Age"placeholder="Enter your Age">
+            </div>
+            <div class="fromgroup">
+                <label for="name">Balance</label>
+                <input type="Balance" name="name" id="Balance"placeholder="Enter a Balance ">
+                
+        </form>
+
+
+               
+</div>
+</a> <a href="http://demo-236.s3-website.ap-northeast-3.amazonaws.com/">Visit W3Schools!</a
+
+    
+
+<button class="btn"> Submit</button>
+
+    
+</body>
+</html>
